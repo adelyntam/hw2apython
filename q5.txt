@@ -1,0 +1,3 @@
+1. No
+2. Yes
+3. The change in increment_a is towards a variable that only exists within that function. The change in increment_b is happening to the actual value of the variable since that variable also exists outside the function.
