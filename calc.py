@@ -1,4 +1,4 @@
-def calculator(input)
+def calculator(input):
 
                 
         
