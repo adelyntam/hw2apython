@@ -1,5 +1,5 @@
 def swap_list(list):
-	int i
+	i = 0
 	for x in list
 		i+=1
 	middleInd = (float(i-1)/2)
